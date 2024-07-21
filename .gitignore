@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Uploads directory
+uploads/
+
+# Environment variable file
+.env
+
+# Client build directory
+client/build/
